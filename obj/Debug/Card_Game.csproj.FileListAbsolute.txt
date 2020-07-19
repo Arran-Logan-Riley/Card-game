@@ -1,0 +1,13 @@
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\bin\Debug\Card_Game.exe.config
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\bin\Debug\Card_Game.exe
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\bin\Debug\Card_Game.pdb
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.csprojAssemblyReference.cache
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.Form1.resources
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.Properties.Resources.resources
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.GenerateResource.cache
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.CoreCompileInputs.cache
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.exe
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.pdb
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\bin\Debug\Newtonsoft.Json.dll
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\bin\Debug\Newtonsoft.Json.xml
+C:\Users\plazm\OneDrive\Desktop\C# assignment\Assignemt cardGame\Card_Game\Card_Game\obj\Debug\Card_Game.csproj.CopyComplete
